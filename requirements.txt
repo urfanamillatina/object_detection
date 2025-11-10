@@ -1,0 +1,8 @@
+numpy==1.26.4
+opencv-python==4.7.0.72
+cvlib
+tensorflow==2.10
+gTTS
+playsound==1.2.2
+pillow
+requests
