@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+cvvenv/
+odvenv/
+*/venv/
+*/env/
+*/.env/
+
+# CVLIB cache
+.cvlib/
+
+# Python compiled files
+__pycache__/
+
+# Large model files
+*.weights
+*.cfg
+*.so
+*.dylib
