@@ -83,4 +83,4 @@ for label in labels:
         food_facts(label)
 
     except:
-        print("No food facts for this item")
+        print("No food facts for this item") 
