@@ -17,3 +17,4 @@ __pycache__/
 *.cfg
 *.so
 *.dylib
+*.dll
