@@ -18,3 +18,9 @@ __pycache__/
 *.so
 *.dylib
 *.dll
+.DS_Store
+
+cars.jpeg
+food_facts.py
+fruit.jpeg
+
