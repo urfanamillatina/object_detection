@@ -1,4 +1,4 @@
-# Virtual environments
+
 venv/
 cvvenv/
 odvenv/
@@ -6,13 +6,11 @@ odvenv/
 */env/
 */.env/
 
-# CVLIB cache
 .cvlib/
 
-# Python compiled files
 __pycache__/
 
-# Large model files
+
 *.weights
 *.cfg
 *.so
@@ -25,3 +23,4 @@ food_facts.py
 fruit.jpeg
 
 *.jpeg
+
